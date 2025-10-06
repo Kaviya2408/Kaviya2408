@@ -3,7 +3,7 @@
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviya-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.csbs29@gmail.com)[![Codolio](https://img.shields.io/badge/Codolio-%230073B5.svg?style=flat&logo=codio&logoColor=white)](https://codolio.com/profile/Kitcsbs29)[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Kaviya2408)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviya-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.csbs29@gmail.com) [![Codolio](https://img.shields.io/badge/Codolio-%230073B5.svg?style=flat&logo=codio&logoColor=white)](https://codolio.com/profile/Kitcsbs29) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Kaviya2408)
 
 
 # 💻 Tech Stack:
