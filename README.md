@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 3rd year CSBS student passionate about building efficient and user-friendly web applications using HTML, CSS, JavaScript, and Maven.<br> 
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviya-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.csbs29@gmail.com) 
 
 # 💻 Tech Stack:
